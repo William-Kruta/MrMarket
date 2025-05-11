@@ -42,7 +42,7 @@ class YahooNews:
                 df.to_csv(path, index=False)
         else:
             df = self.read_news(path)
-        # print(f"DF: {df}")
+        return df
 
     def read_news(self, path: str):
         df = pd.read_csv(path)
