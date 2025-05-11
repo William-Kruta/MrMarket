@@ -1,0 +1,9 @@
+
+
+Options
+
+- Sell puts on down days. 
+- Sell calls on up days.
+- Never buy-to-close (btc) 30 minutes before close, unless you are certain it's not in your favor. Otherwise, let theta eat it. 
+- BE AWARE of earnings reports. 
+

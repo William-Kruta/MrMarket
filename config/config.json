@@ -1,0 +1,7 @@
+{
+  "candles_daily": "M:\\CACHE\\YAHOO\\candles_daily",
+  "candles_intraday": "M:\\CACHE\\YAHOO\\candles_intraday",
+  "news": "M:\\CACHE\\YAHOO\\news",
+  "snapshots": "M:\\CACHE\\YAHOO\\option_snapshots",
+  "statements": "M:\\CACHE\\YAHOO\\financial_statements"
+}

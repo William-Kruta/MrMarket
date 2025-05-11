@@ -1,0 +1,12 @@
+# Data
+pandas
+scipy
+
+# Finance
+yfinance
+QuantLib
+pandas-ta
+
+# Plotting 
+matplotlib
+mplfinance
